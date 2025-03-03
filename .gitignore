@@ -1,0 +1,8 @@
+notes.txt
+*.pyc
+*.log
+.vscode
+.git
+
+**/__pycache__/
+**/.ipynb_checkpoints
